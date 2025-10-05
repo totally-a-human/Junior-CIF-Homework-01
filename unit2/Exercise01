@@ -1,0 +1,11 @@
+grade=int(input("Hello! What grade did you recive?"))
+if grade<=50:
+    print("You failed!")
+if grade>=60 and grade<80:
+    print("You passed!")
+if grade>=80 and grade<90:
+    print("You did well!")
+if grade>=90 and grade<100:
+    print("You did very well!")
+if grade==100:
+    print("Outstanding! All perfect!")
