@@ -1,7 +1,7 @@
 # Junior-CIF-Homework
 
 ## Overview
-CIF is a non-profit
+CIF is a non-profit organization that is dedicated to teaching kids from elementry to high school how to code using python. Their Junior course is the secound course in their program and enhances the basic skills learned in the beginner course. Unlike the previous course, the junior course is longer and project based, with each project teaching a new skill. 
 
 ## Projects
 | project | units | status |
